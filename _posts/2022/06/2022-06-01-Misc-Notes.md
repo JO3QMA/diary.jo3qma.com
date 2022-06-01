@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: "日記"
 title: "2022/06/01 雑記"
 ---
 

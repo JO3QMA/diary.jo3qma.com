@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: "Jekyll"
 title: "ブログのテーマを変更した。"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: "Jekyll"
 title: "Chirpy用のJekyllをいい感じにしてくれるコンテナを作った"
 ---
 
@@ -24,6 +25,30 @@ Jekyll的には別にリポジトリにChirpyが収まっている必要はな�
 設定ファイルなど、上書きするものは本家で変更されたときに追従できませんが、まあなんとかなるでしょう。
 
 そこら辺の処理はまた後で考えることにします。
+
+## Error的な
+ちゃんとビルドできているので、良いのですが、リポジトリをコピってるからか、リポジトリじゃないって怒られるんですよね。。。
+
+どうにかならんかなぁ。。。
+
+```
+jekyll-jekyll-1  | ========================================
+jekyll-jekyll-1  | fatal: not a git repository (or any of the parent directories): .git
+jekyll-jekyll-1  | Configuration file: /usr/src/jekyll/_config.yml
+jekyll-jekyll-1  |  Theme Config file: /usr/src/jekyll/_config.yml
+jekyll-jekyll-1  |             Source: /usr/src/jekyll
+jekyll-jekyll-1  |        Destination: /usr/local/app
+jekyll-jekyll-1  |  Incremental build: disabled. Enable with --incremental
+jekyll-jekyll-1  |       Generating...
+jekyll-jekyll-1  | fatal: not a git repository (or any of the parent directories): .git
+jekyll-jekyll-1  | fatal: not a git repository (or any of the parent directories): .git
+jekyll-jekyll-1  | fatal: not a git repository (or any of the parent directories): .git
+jekyll-jekyll-1  | fatal: not a git repository (or any of the parent directories): .git
+jekyll-jekyll-1  | fatal: not a git repository (or any of the parent directories): .git
+jekyll-jekyll-1  | fatal: not a git repository (or any of the parent directories): .git
+jekyll-jekyll-1  |                     done in 0.621 seconds.
+jekyll-jekyll-1  |  Auto-regeneration: enabled for '/usr/src/jekyll'
+```
 
 ## リポジトリ
 [JO3QMA/docker-jekyllのchirpyブランチ](https://github.com/JO3QMA/docker-jekyll/tree/chirpy)に置いています。
