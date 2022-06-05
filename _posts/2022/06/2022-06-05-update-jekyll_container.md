@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: "jekyll"
+tag: "Jekyll"
 title: "Jekyll用コンテナを改良した"
 ---
 
@@ -9,7 +9,7 @@ title: "Jekyll用コンテナを改良した"
 
 永遠と「これ、LPICで見たやつだ！」みたいな感じで書いてました。LPICって案外実務的ですね。
 
-[今まで](https://github.com/JO3QMA/docker-jekyll/tree/b370303585110f6b217b9bb62b9f65948730a179)は、`/usr/local/app`にDockerからサイトのデータをマウントし、ビルドを行っていました。
+[今まで](https://github.com/JO3QMA/docker-jekyll/tree/b370303585110f6b217b9bb62b9f65948730a179)は、`/usr/src/app`にDockerからサイトのデータをマウントし、ビルドを行っていました。
 
 今回は、Gitを使用してクローンしてくるようにしました。
 
