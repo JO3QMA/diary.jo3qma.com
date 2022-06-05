@@ -7,10 +7,13 @@ order: 4
 [jo3qma.com](https://jo3qma.com/)を作るまでの簡単な自己紹介ページ。
 
 # Guest@Theta: \~/$ cat about_jo3qma
-## 簡単な説明
-でんでんタウン徘徊オタク。
+## About ME
 
-仕事と自宅でサーバーを運用している、インフラストラクチャーエンジニアです。
+インフラストラクチャエンジニアです。
+
+中学生の頃から、Linuxに触れ、高校生時代から自宅サーバーの運用を続けています。
+
+でんでんタウン徘徊オタク。
 
 自作PCや、HW関係のITエンジニアリングに興味があります。
 
@@ -25,13 +28,30 @@ order: 4
 - Python
 - Docker
   - Docker-Compose
+- Apache HTTP Server
+- nginx
+
+## 趣味
+Linuxや自作PCなどパソコン弄くりまわすのが趣味です。
+
+日々、ジャンクパーツなどを求めて[でんでんタウン](https://www.nippombashi.jp/)という大阪のアキバみたいなところを練り歩いています。
+
+自宅にある適当な自作PCにLinuxを突っ込んで24/7でサーバーとして運用しています。
+
+趣味が高じて、仕事になりました。
+
+その他は、旅行をするのが好きですが、限界移動オタクではないので一般的な旅行しかしません。
 
 ## Games
 ゲームをするのが好きです。
-- Fallout 76
-- Ingress
-- プロジェクトセカイ
-- CHUNITHM(FriendCode:8058596678277)
+
+よく以下のゲームをやっています。
+- Fallout 76 (JO3QMA)
+- WarThunder (JO3QMA)
+- Apex Legends
+- Ingress (JO3QMA)
+- プロジェクトセカイ (ぶっちゃん！) (PlayerID: 164685045550534667)
+- CHUNITHM (FriendCode: 8058596678277)
 
 ## Links
 - [Twitter (x86q)](https://twitter.com/x86q)
