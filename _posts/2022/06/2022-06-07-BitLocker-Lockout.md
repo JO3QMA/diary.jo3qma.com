@@ -21,15 +21,20 @@ BitLockerの回復キーを求められました。
 
 BitLocker、使ってること普通に忘れてたし、回復キーはPCの中。
 
+```
 　　終
 制作・著作
-━━━━━
+━━━━━━━━━
 　ⓃⒽⓀ
+```
 
 うーん・・・。終わったな。
 
 ## BitLockerの回復キーはPCの中。
 アホなので、BitLockerの回復キーをPCの中にしか保管していません。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BitLockerの回復キー、BitLockerの中かもしれん・・・</p>&mdash; BitLockerかけたままBIOSアップデートをしてはいけない (@x86q) <a href="https://twitter.com/x86q/status/1533987342448742401?ref_src=twsrc%5Etfw">June 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+世界一アホ。
 
 メインPCには、
 
