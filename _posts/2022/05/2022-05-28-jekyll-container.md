@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "ブログ"
-tags: "Jekyll" "Docker"
+tags: ["Jekyll", "Docker"]
 title: "自分用のjekyllコンテナ"
 ---
 
