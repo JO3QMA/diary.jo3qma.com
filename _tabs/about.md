@@ -11,7 +11,9 @@ order: 4
 
 インフラストラクチャエンジニアです。
 
-中学生の頃から、Linuxに触れ、高校生時代から自宅サーバーの運用を続けています。
+中学生の頃からLinuxに触れ、高校生時代から自宅サーバーの運用を続けています。
+
+現在は某所で商用サーバーの監視・運用・構築・障害対応等をしています。
 
 でんでんタウン徘徊オタク。
 
@@ -19,11 +21,15 @@ order: 4
 
 ツイ廃ではありません。
 
-## 技能
+## Skill
 - Linux
   - CentOS 5-7
   - Ubuntu 10.10-20.10
   - ArchLinux
+- Windows
+  - Windows 2000, XP, 8, 8.1
+  - Windows 10
+  - Windows Server 2019
 - Ruby
 - Python
 - Docker
@@ -52,6 +58,13 @@ Linuxや自作PCなどパソコン弄くりまわすのが趣味です。
 - Ingress (JO3QMA)
 - プロジェクトセカイ (ぶっちゃん！) (PlayerID: 164685045550534667)
 - CHUNITHM (FriendCode: 8058596678277)
+
+# 好き
+- Megpoid
+- VOCALOID
+- VOICEROID
+- グミ
+- ガブリチュウ
 
 ## Links
 - [Twitter (x86q)](https://twitter.com/x86q)
