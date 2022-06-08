@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "ブログ"
-tags: "Jekyll", "Docker"
+tags: "Jekyll" "Docker"
 title: "Chirpy用のJekyllをいい感じにしてくれるコンテナを作った"
 ---
 
