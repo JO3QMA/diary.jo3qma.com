@@ -12,5 +12,5 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 /* append your custom style below */
 
 body {
-    font-family: 'Open Sans','Helvetica Neue', Helvetica, 'Arial', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif !default;
+    font-family: 'Open Sans','Helvetica Neue', Helvetica, 'Arial', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif ;
 }
