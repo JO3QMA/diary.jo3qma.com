@@ -51,6 +51,7 @@ FF14は2560x1080 最高画質設定の仮想フルスクリーンで回しまし
 ## 結果
 
 ### 3DMark
+
 |PCIe Gen|レーン数|SAM|TimeSpy|FireStrike|PCIe機能テスト|
 |---:|---:|:---:|---:|---:|---:|
 |4.0|x16|有効|[17,100](https://www.3dmark.com/3dm/76039595?)|[12,531](https://www.3dmark.com/3dm/76039832?)|[25.20 GB/s](https://www.3dmark.com/3dm/76047162?)|
@@ -63,6 +64,7 @@ FF14は2560x1080 最高画質設定の仮想フルスクリーンで回しまし
 |3.0| x8|無効|[16,819](https://www.3dmark.com/3dm/76044264?)|[12,508](https://www.3dmark.com/3dm/76044590?)| [7.13 GB/s](https://www.3dmark.com/3dm/76044736?)|
 
 ### FF14
+
 |PCIe Gen|レーン数|SAM|Score|Avg. FPS|Min. FPS|Load Time(sec)|
 |---:|---:|:---:|---:|---:|---:|---:|
 |4.0|x16|有効|23323|172.6171|62|9.640|
