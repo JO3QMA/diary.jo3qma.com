@@ -1,6 +1,7 @@
 ---
 layout: post
-tag: "日記"
+category: "日記"
+tags: "日記", "Fallout76"
 title: "2022/06/01 雑記"
 ---
 

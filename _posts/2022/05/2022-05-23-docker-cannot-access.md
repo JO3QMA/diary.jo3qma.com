@@ -1,5 +1,6 @@
 ---
 layout: post
+category: "自宅サーバー"
 tag: "Docker"
 title: "自分向けDockerでアクセスできないトラブルメモ"
 ---

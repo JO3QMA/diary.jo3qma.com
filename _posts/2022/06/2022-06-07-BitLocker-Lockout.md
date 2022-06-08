@@ -1,6 +1,7 @@
 ---
 layout: post
-tag: "自作PC"
+category: "自作PC"
+tag: "BitLocker"
 title: "BitLockerから締め出された"
 ---
 

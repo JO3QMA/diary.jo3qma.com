@@ -1,5 +1,6 @@
 ---
 layout: post
+category: "日記"
 tag: "日記"
 title: "2022/06/02 雑記"
 ---
