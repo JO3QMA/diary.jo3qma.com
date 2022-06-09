@@ -106,4 +106,4 @@ MDやったの一回だけだからやり方を忘れた。
 
 これから、暇なときとか時間を見つけてゆっくりやっていきますか・・・。
 
-![Mission Badge](assets/img/2022/06/09/Screenshot_20220609-182210.jpg){: width="250" }
+![Mission Badge](/assets/img/2022/06/09/Screenshot_20220609-182210.jpg){: width="250" }
