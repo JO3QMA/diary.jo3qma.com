@@ -67,9 +67,9 @@ IngressのサブスクのC.O.R.E.を契約しました。
 
 ![Isikiri](/assets/img/2022/06/10/FU2bNBEVsAAvKuw-orig.jpg){: width="250" }
 
-![Isikiri]/assets/img/2022/06/10/FU2g-KzUcAAXTvZ-orig.jpg){: width="250" }
+![Isikiri](/assets/img/2022/06/10/FU2g-KzUcAAXTvZ-orig.jpg){: width="250" }
 
-![Isikiri]/assets/img/2022/06/10/FU2g9CPUcAAQHxW-orig.jpg){: width="250" }
+![Isikiri](/assets/img/2022/06/10/FU2g9CPUcAAQHxW-orig.jpg){: width="250" }
 
 
 ## <MD東大阪-06> 三社ミッション石切神社 でんぼの神様にトライ！
