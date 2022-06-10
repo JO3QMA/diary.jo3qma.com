@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Ingress"
-tags: ["Ingress", "MD東大阪"]
+tags: ["Ingress", "MD東大阪", "#IngressSolstice"]
 title: "Ingress MD東大阪 5,6と#IngressSolstice"
 ---
 # Ingress
