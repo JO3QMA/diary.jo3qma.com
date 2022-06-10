@@ -12,7 +12,7 @@ title: "Ingress MD東大阪 5,6と#IngressSolstice"
 ## #IngressSolstice
 今日から`#IngressSolstice`というIngressのイベントが始まりました。
 
-![#IngressSolstice](/assets/img/2022/06/10/FU2YKZuUcAAUVVN-orig.jpg)
+![#IngressSolstice](/assets/img/2022/06/10/FU2YKZuUcAAUVVN-orig.jpg){: width="250" }
 
 中立ポータルにレゾネーターを1つ刺すだけで、通常の800APの2.5倍の2,000APもらえるため、めちゃくちゃ美味しいです。
 
