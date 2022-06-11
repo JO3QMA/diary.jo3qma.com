@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "日記"
-tags: ["日記", "VR", "Valve Index"]
+tags: ["日記", "VR", "Valve Index", "Fallout76"]
 title: "2022/06/11 雑記"
 ---
 # 2022/06/11 雑記
@@ -30,3 +30,14 @@ VRって没入感が大切なので、やっぱチラツキとかあるとしん
 流石にValveに泣きついて交換部品購入させてもらおうかなあ。
 
 保証期間外だけど、売ってくれたりしないのかなぁ。。。
+
+## Fallout 76
+今シーズンちゃんと走り切りました。
+
+![SCOREBOARD](/assets/img/2022/06/11/Fallout76_CTQLoxJUUT.jpg)
+
+ギリギリ滑り込みセーフ見たい感じ。
+
+来シーズンも頑張りたい。
+
+SCOREBOARDの画像ってどっかにフルサイズで転がってないのかな。。。
