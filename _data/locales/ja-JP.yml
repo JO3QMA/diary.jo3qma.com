@@ -73,8 +73,7 @@ post:
 
 # categories page
 categories:
-  category_measure: categories
-  post_measure: posts
+  category_measure:
     singular: category
     plural: categories
   post_measure:
