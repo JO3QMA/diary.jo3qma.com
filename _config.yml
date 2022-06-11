@@ -37,6 +37,8 @@ github:
 twitter:
   username: x86q            # change to your twitter username
 
+author: JO3QMA
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -117,7 +119,7 @@ assets:
 
 pwa:
   enabled: true   # the option for PWA feature
-  
+
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------

@@ -11,9 +11,9 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Categories
-  tags: Tags
-  archives: Archives
+  categories: Category
+  tags: Tag
+  archives: Archive
   about: About
 
 # the text displayed in the search bar & search results
@@ -50,14 +50,14 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: Posted
-  updated: Updated
+  written_by: "著者:"
+  posted: "投稿:"
+  updated: "更新:"
   words: words
   pageview_measure: views
   read_time:
-    unit: min
-    prompt: read
+    unit: 分
+    prompt: で読めます
   relate_posts: Further Reading
   share: Share
   button:
