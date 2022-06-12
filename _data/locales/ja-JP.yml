@@ -53,21 +53,21 @@ post:
   written_by: "著者:"
   posted: "投稿:"
   updated: "更新:"
-  words: words
+  words: ワード
   pageview_measure: views
   read_time:
     unit: 分
     prompt: で読めます
   relate_posts: Further Reading
-  share: Share
+  share: 共有
   button:
-    next: Newer
-    previous: Older
+    next: 次の投稿
+    previous: 前の投稿
     copy_code:
       succeed: Copied!
     share_link:
-      title: Copy link
-      succeed: Link copied successfully!
+      title: リンクをコピー
+      succeed: リンクをコピーしました!
   # pinned prompt of posts list on homepage
   pin_prompt: Pinned
 
