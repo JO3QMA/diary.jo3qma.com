@@ -1,3 +1,4 @@
+---
 layout: post
 category: "日記"
 tag: "日記"
