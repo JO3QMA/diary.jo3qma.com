@@ -6,8 +6,6 @@ title: "2022/06/17 雑記"
 ---
 # 2022/06/17 雑記
 
-
-
 ## Fallout5の話
 [Fallout5の制作が決定した](https://news.denfaminicogamer.jp/news/220615a)ようです。
 
