@@ -1,8 +1,8 @@
 ---
 layout: post
-category: "日記"
-tag: "日記"
-title: "2022/06/23 雑記"
+category: "VRChat"
+tags: ["VRChat", "VRChat IPv6 Social Bug"]
+title: "VRChat ソーシャルバグ対応策(多分)"
 ---
 
 # VRChat ソーシャルバグ
