@@ -17,7 +17,7 @@ Valve Index一式を入手したのは2022/08/20で、保証期間は一年な�
 
 私も過去にValve Index関係で2回、BaseStation関係で1回、Valveに対しRMA申請を出していますが、流石に必要な情報などは忘れたものもあるので、参考にします。
 
-- [ValveIndex動作不良のための返品交換の流れ | kura 3D's BLOG.](https://kura3d.site/2019/12/31/valve-index-return-processing/)
+- [ValveIndex動作不良のための返品交換の流れ \| kura 3D\'s BLOG.](https://kura3d.site/2019/12/31/valve-index-return-processing/)
 - [tips_RMA_ValveIndex - 求聞持Wiki](https://wiki.thakyuu.invr.chat/Ti2ps/tips_RMA_ValveIndex)
 - [Valve Index HMDにノイズが入るようになったのでケーブル交換した件](https://sechiro.fanbox.cc/posts/2242376)
 
