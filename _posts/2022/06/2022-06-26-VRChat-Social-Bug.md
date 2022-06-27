@@ -2,7 +2,7 @@
 layout: post
 category: "VRChat"
 tags: ["VRChat", "VRChat IPv6 Social Bug"]
-title: "VRChat ソーシャルバグ対応策(多分)"
+title: "VRChat IPv6有効時のソーシャルバグ対応策(多分)"
 ---
 
 # VRChat ソーシャルバグ
